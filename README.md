@@ -33,4 +33,4 @@ These tweets were extracted from the [Trump Twitter Archive](https://www.thetrum
 
 - **is_rt**: Using a =RegExMatch function in Google Sheets, it specifies if the text starts with "RT" which Twitter uses to inform the user that this is re-tweet. 
 
-- **lower_text**, Using the =lower function in Google Sheets, all words of the text are turned into lower case.
+- **lower_text**: Using the =lower function in Google Sheets, all words of the original text are turned into lower case.
